@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://gdgjunk.qustmddus.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
